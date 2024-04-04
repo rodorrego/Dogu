@@ -40,4 +40,4 @@ Este proyecto se encuentra en constante evolución. Mis planes futuros incluyen 
 
 ## Invitación
 
-Te invito a explorar el código de este proyecto libremente y a utilizarlo y adaptarlo según tus necesidades, si hay algun comentario que creas pertinente hazlo sin dudar, lo leere con gusto, para mi el feedback es fundamental. Espero que mi pequeño codigo sea de ayuda para ti o que pueda ser una fuente de inspiracion!
+Te invito a explorar el código de este proyecto libremente, a utilizarlo y adaptarlo según tus necesidades, si hay algun comentario que creas pertinente hazlo sin dudar, lo leere con gusto, para mi el feedback es fundamental. Espero que mi pequeño codigo sea de ayuda para ti o que pueda ser una fuente de inspiracion!
