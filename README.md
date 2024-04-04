@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-  Este proyecto se centra en el desarrollo de un Chat Bot para Discord mediante el uso de la API de Gemini. La idea surgió de la necesidad de tener un bot que pudiera actuar como un chatbot dentro de mi servidor de Discord y el de mis amigos, inspirándome en plataformas similares como Character.IA. Al investigar diversas opciones, descubrí Gemini, la IA de Google, que ofrece su API de forma gratuita y abierta para su uso en proyectos de desarrollo. Esto me brindó la oportunidad de explorar nuevas formas de implementar un bot inteligente en Discord.
+  Este proyecto se centra en el desarrollo de un Chat Bot para Discord mediante el uso de la API de Gemini. La idea surgió de la necesidad de tener un bot que pudiera actuar como un chatbot dentro de el servidor de Discord que tengo con mis amigos, inspirándome en plataformas similares como Character.IA. Al investigar diversas opciones, descubrí Gemini, la IA de Google, que ofrece su API de forma gratuita y abierta para su uso en proyectos de desarrollo. Esto me brindó la oportunidad de explorar nuevas formas de implementar un bot inteligente en Discord.
 
   El objetivo principal del proyecto es proporcionar a los usuarios la capacidad de interactuar con un bot inteligente dentro de Discord, permitiendo conversaciones naturales y fluidas.
 
