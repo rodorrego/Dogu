@@ -37,7 +37,4 @@ El bot responde de manera pertinente a las solicitudes de los usuarios, como se 
 ## Futuro del Proyecto
 
 Este proyecto se encuentra en constante evolución. Mis planes futuros incluyen seguir explorando nuevas formas de mejorar la funcionalidad del bot y ofrecer experiencias más personalizadas a los usuarios. Entre las ideas futuras se encuentran la implementación de asistentes IA con personalidades personalizadas, la interpretación de roles de personajes y otras características innovadoras. La creatividad es fundamental, y continuaré explorando nuevas posibilidades con el código desarrollado hasta ahora.
-
-## Invitación
-
-Te invito a explorar el código de este proyecto libremente, a utilizarlo y adaptarlo según tus necesidades, si hay algun comentario que creas pertinente hazlo sin dudar, lo leere con gusto, para mi el feedback es fundamental. Espero que mi pequeño codigo sea de ayuda para ti o que pueda ser una fuente de inspiracion!
+Te invito a explorar el código de este proyecto libremente, a utilizarlo y adaptarlo según tus necesidades. Espero que mi pequeño codigo sea de ayuda para ti o que pueda ser una fuente de inspiracion!
