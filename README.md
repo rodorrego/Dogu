@@ -25,10 +25,14 @@
 </p>
 
 Como se puede apreciar en la imagen adjunta, el bot maneja con eficacia respuestas extensas, las cuales se resumen de manera óptima en un máximo de 2000 tokens (2000 caracteres) sin inconvenientes.
-![Imagen2](https://github.com/rodorrego/Gemini-ChatBot/assets/103141158/30c16f3d-1c25-4b8f-aa56-cb9b433e6ab9)
+<p align="center">
+  <img src="https://github.com/rodorrego/Gemini-ChatBot/assets/103141158/30c16f3d-1c25-4b8f-aa56-cb9b433e6ab9" alt="Imagen de ejemplo">
+</p>
 
 El bot responde de manera pertinente a las solicitudes de los usuarios, como se muestra en el ejemplo donde un usuario pregunta sobre una receta de comida y el bot proporciona una respuesta acorde a la solicitud.
-![Imagen3](https://github.com/rodorrego/Gemini-ChatBot/assets/103141158/83535970-ee8c-4100-8248-88fed5011a23)
+<p align="center">
+  <img src="https://github.com/rodorrego/Gemini-ChatBot/assets/103141158/83535970-ee8c-4100-8248-88fed5011a23" alt="Imagen de ejemplo">
+</p>
 
 ## Futuro del Proyecto
 
