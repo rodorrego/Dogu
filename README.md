@@ -1,4 +1,4 @@
-# Chat Bot para Discord con API de Gemini(https://gemini.google.com/?hl=es_419)
+# Chat Bot para Discord utilizando la [API de Gemini](https://gemini.google.com/?hl=es_419)
 
 ## Descripción del Proyecto
 
