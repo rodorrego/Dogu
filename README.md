@@ -14,6 +14,9 @@ El objetivo principal del proyecto es proporcionar a los usuarios la capacidad d
 
 3. **Refinamiento y Mejoras Continuas**: Durante el proceso de desarrollo, me enfoqué en refinar el bot y corregir posibles errores. Además, exploré formas de personalizar la experiencia del usuario, como la implementación de asistentes IA con personalidades únicas, para hacer que la interacción con el bot fuera más atractiva y dinámica.
 
+## Imagenes del bot en funcionamiento
+![image](https://github.com/rodorrego/Gemini-ChatBot/assets/103141158/d6c485c9-cf41-4c63-93d3-e7e2432d1b06) ![image](https://github.com/rodorrego/Gemini-ChatBot/assets/103141158/7707b90d-4462-4c7e-90a6-3bb87a23790e)
+
 ## Futuro del Proyecto
 
 Este proyecto se encuentra en constante evolución. Mis planes futuros incluyen seguir explorando nuevas formas de mejorar la funcionalidad del bot y ofrecer experiencias más personalizadas a los usuarios. Entre las ideas futuras se encuentran la implementación de asistentes IA con personalidades personalizadas, la interpretación de roles de personajes y otras características innovadoras. La creatividad es fundamental, y continuaré explorando nuevas posibilidades con el código desarrollado hasta ahora.
