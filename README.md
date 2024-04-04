@@ -20,7 +20,9 @@
 ## Imagenes del bot en funcionamiento
 
   Las siguientes imagenes ilustran un poco como se desarrollan las interacciones entre el Chat Bot y un usuario dentro de un servidor de Discord. El usuario envia una pregunta, consulta o mensaje al bot, este procesa la consulta utilizando la API de Gemini, accediendo a su base de conocimientos y algoritmos para generar una respuesta precisa y relevante. Finalmente, el bot envía la respuesta de vuelta al usuario en el mismo canal de texto, proporcionando información coherente y disponible públicamente.
-![Imagen](https://github.com/rodorrego/Gemini-ChatBot/assets/103141158/59efe261-0411-4ce8-864d-edbe6aff8f03)
+<p align="center">
+  <img src="https://github.com/rodorrego/Gemini-ChatBot/assets/103141158/59efe261-0411-4ce8-864d-edbe6aff8f03" alt="Imagen de ejemplo">
+</p>
 
 Como se puede apreciar en la imagen adjunta, el bot maneja con eficacia respuestas extensas, las cuales se resumen de manera óptima en un máximo de 2000 tokens (2000 caracteres) sin inconvenientes.
 ![Imagen2](https://github.com/rodorrego/Gemini-ChatBot/assets/103141158/30c16f3d-1c25-4b8f-aa56-cb9b433e6ab9)
